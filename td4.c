@@ -3,8 +3,8 @@
 #include <Windows.h>
 
 #define CLOCK_GENERATOR 1
-const char* program_file = "C:\\bins\\binary.bin";
-const char* input_file = "C:\\bins\\input.bin";
+const char* program_file = "bins\\binary.bin";
+const char* input_file = "bins\\input.bin";
 
 typedef struct
 {
